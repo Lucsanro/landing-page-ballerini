@@ -25,6 +25,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Objetivo do projeto foi aprimorar e revisar meus conhecimentos em HTML5 e CSS3.Landing page desenvolvida com base na aula ministrada por Rafaella Ballerini, no Youtube.
+Objetivo do projeto foi aprimorar e revisar meus conhecimentos em HTML5 e CSS3. Landing page desenvolvida com base na aula ministrada por Rafaella Ballerini, no Youtube.
 
 - [Acesse o conteúdo da aula aqui](https://www.youtube.com/watch?v=llF6vD-RljE)
